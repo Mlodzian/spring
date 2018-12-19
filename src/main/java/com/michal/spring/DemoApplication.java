@@ -1,4 +1,4 @@
-package com.michal.demo;
+package com.michal.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
